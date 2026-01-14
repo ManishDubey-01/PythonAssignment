@@ -15,8 +15,7 @@ Multiplication = num1 * num2
 Division = num1 / num2
 
 # Show result
-print(" ")
-print('Addition: ', Addition)
+print('\nAddition: ', Addition)
 print('Substraction: ', Substraction)
 print('Multiplication: ', Multiplication)
 print('Division: ', round(Division,2))
